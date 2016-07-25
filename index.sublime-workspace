@@ -1,0 +1,296 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pos",
+				"position"
+			],
+			[
+				"can",
+				"canvasClass"
+			],
+			[
+				"node",
+				"nodeClassList"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"back",
+				"background-attachment"
+			],
+			[
+				"background-",
+				"background-repeat"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Henry/Desktop/bootstrap-grid/index.jade",
+		"/C/Users/Henry/Desktop/bootstrap-grid/style.sass",
+		"/C/Users/Henry/Desktop/CounterStrat/stylesheets/sass/layout.sass",
+		"/C/Users/Henry/Desktop/gulp-start/gulpfile.js",
+		"/C/Users/Henry/Desktop/gulp-start/css/styl.css",
+		"/C/Users/Henry/Desktop/CounterStrat/index.jade",
+		"/C/Users/Henry/Desktop/gulp-start/minCSS/styl.css",
+		"/C/Users/Henry/Desktop/gulp-start/js/app.min.js",
+		"/C/Users/Henry/Desktop/gulp-start/js/app.js",
+		"/C/Users/Henry/Desktop/MovieTrailer/media.py",
+		"/C/Users/Henry/Desktop/MovieTrailer/fresh_tomatoes.html",
+		"/C/Users/Henry/Desktop/MovieTrailer/entertainment_center.py",
+		"/C/Users/Henry/Desktop/Udacity/web-dev-blog/index.html",
+		"/C/Users/Henry/Desktop/KingCL/js/functions.js",
+		"/C/Users/Henry/Desktop/KingCL/index.jade",
+		"/C/Users/Henry/Desktop/KingCL/stylesheets/css/style.css",
+		"/C/Users/Henry/Desktop/KingCL/stylesheets/sass/style.sass",
+		"/C/Users/Henry/Desktop/Udacity/tree-to-html/index.html",
+		"/C/Users/Henry/Desktop/Udacity/figures/index.html",
+		"/C/Users/Henry/Desktop/Resumes/loc/resume-henry.html",
+		"/C/Users/Henry/Desktop/Udacity/headers/index.html",
+		"/C/Users/Henry/Desktop/Udacity/lists/index.html",
+		"/C/Users/Henry/Desktop/Resumes/resume-henry.html",
+		"/H/resume-henry.html",
+		"/C/Users/Henry/Desktop/KingCL/stylesheets/css/normalize.css",
+		"/C/Users/Henry/Desktop/bootstrap/css/bootstrap.css",
+		"/C/Users/Henry/Desktop/bootstrap/css/bootstrap-theme.css",
+		"/C/Users/Henry/Desktop/CounterStrat/js/functions.js",
+		"/C/Users/Henry/AppData/Local/Temp/Rar$EXa0.704/html5-canvas-drawing-app.html",
+		"/C/Users/Henry/AppData/Local/Temp/Rar$EXa0.628/html5-canvas-drawing-app.html",
+		"/C/Users/Henry/AppData/Local/Temp/Rar$DIa0.253/html5-canvas-drawing-app.js",
+		"/C/Users/Henry/Desktop/CounterStrat/index.html",
+		"/C/Users/Henry/Desktop/CounterStrat/stylesheets/css/style.css",
+		"/C/Users/Henry/Desktop/jquery-ui-1.11.4/jquery-ui.min.js",
+		"/C/Users/Henry/AppData/Local/Temp/Rar$EXa0.725/jquery-ui-1.11.4.custom/index.html",
+		"/C/Users/Henry/Desktop/ToDo/backbone-tutorial.html",
+		"/C/Users/Henry/Desktop/html5-canvas-drawing-app/html5-canvas-drawing-app.html",
+		"/C/Users/Henry/Desktop/html5-canvas-drawing-app/html5-canvas-drawing-app.js",
+		"/C/Users/Henry/Desktop/PoolWhipPros/index.html",
+		"/C/Users/Henry/Desktop/microcosm/style.css",
+		"/C/Users/Henry/Desktop/CounterStrat/stylesheets/sass/style.sass",
+		"/C/Users/Henry/Desktop/fishandchips/stylesheets/sass/layout.sass",
+		"/C/Users/Henry/Desktop/CounterStrat/config.rb",
+		"/C/Users/Henry/Desktop/CounterStrat/stylesheets/css/layout.css",
+		"/C/Users/Henry/Desktop/gg/js/functions.js",
+		"/C/Users/Henry/Desktop/gg/stylesheets/sass/layout.sass",
+		"/C/Users/Henry/Desktop/gg/index.jade",
+		"/C/Users/Henry/Desktop/Skeleton-2.0.4/index.html",
+		"/C/Users/Henry/Desktop/Skeleton-2.0.4/css/skeleton.css",
+		"/C/Users/Henry/Desktop/fishandchips/stylesheets/sass/style.sass",
+		"/C/Users/Henry/Desktop/fishandchips/stylesheets/css/style.css",
+		"/C/Users/Henry/Desktop/gg/stylesheets/css/style.css",
+		"/C/Users/Henry/Desktop/fishandchips/stylesheets/css/layout.css",
+		"/C/Users/Henry/Desktop/gg/stylesheets/css/normalize.css",
+		"/C/Users/Henry/Desktop/gg/stylesheets/css/layout.css",
+		"/C/Users/Henry/Desktop/gg/stylesheets/css/skeleton.css",
+		"/C/Users/Henry/Desktop/minicourse-ajax-project/index.html",
+		"/C/Users/Henry/Desktop/Resumes/loc/resume-henry - with internship.html",
+		"/C/Users/Henry/Desktop/Genie/app.js",
+		"/C/Users/Henry/Desktop/Resumes/Loc Nguyen - Resume.html",
+		"/C/Users/Henry/Desktop/Genie/package.json",
+		"/C/Users/Henry/Desktop/KingCL/OLD HTML/agent-portal.html",
+		"/C/Users/Henry/Desktop/KingCL/OLD HTML/index.html",
+		"/C/Users/Henry/Desktop/Parallax-on-the-Web-DevTips--0.7/index.jade",
+		"/C/Users/Henry/Desktop/fishandchips/index.jade",
+		"/C/Users/Henry/Desktop/Parallax-on-the-Web-DevTips--0.7/css/layout1.sass",
+		"/C/Users/Henry/Desktop/Parallax-on-the-Web-DevTips--0.7/css/wat",
+		"/C/Users/Henry/Desktop/Parallax-on-the-Web-DevTips--0.7/js/functions.js",
+		"/C/Users/Henry/Desktop/fishandchips/js/functions.js",
+		"/C/Users/Henry/Desktop/fishandchips/index.html",
+		"/C/Users/Henry/Desktop/fishandchips/stylesheets/css/skeleton.css",
+		"/C/Users/Henry/Desktop/fishandchips/sass/layout.sass",
+		"/C/Users/Henry/Desktop/fishandchips/css/style.sass",
+		"/C/Users/Henry/Desktop/Parallax-on-the-Web-DevTips--0.7/css/style.css",
+		"/C/Users/Henry/Desktop/demo/css/app.css",
+		"/C/Users/Henry/Desktop/demo/scss/app.scss",
+		"/C/Users/Henry/Desktop/Parallax-on-the-Web-DevTips--0.7/index.html",
+		"/C/Users/Henry/Desktop/Parallax-on-the-Web-DevTips--0.7/css/style.sass",
+		"/C/Users/Henry/Desktop/Parallax-on-the-Web-DevTips--0.7/css/skeleton.scss",
+		"/C/Users/Henry/Desktop/Parallax-on-the-Web-DevTips--0.7/css/fonts.scss",
+		"/C/Users/Henry/Desktop/PoolWhipPros/stylesheets/main.css",
+		"/C/Users/Henry/Desktop/skeleton-sass-master/skeleton_template.scss",
+		"/C/Users/Henry/Desktop/microcosm/js/functions.js",
+		"/C/Users/Henry/Desktop/microcosm/index.html",
+		"/C/Users/Henry/Desktop/test.jade",
+		"/C/Users/Henry/Desktop/microcosm/skeleton.css",
+		"/C/Users/Henry/Desktop/microcosm/normalize.css",
+		"/C/Users/Henry/Desktop/microcosm/css/style.css",
+		"/C/Users/Henry/Desktop/a.sass"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"paint",
+			"here"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

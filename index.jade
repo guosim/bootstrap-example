@@ -1,0 +1,45 @@
+doctype html
+html(lang="en")
+	head
+		title Henry Wu
+		meta(charset="utf-8")
+		meta(name="description", content="Learning Bootstrap Grid!")
+		meta(name="author", content="Henry Wu")
+		meta(name="viewport", content="width=device-width, initial-scale=1")
+		link(rel="stylesheet", href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css")
+		link(rel="stylesheet", href="style.css")
+	body
+		.container
+			.row
+				.col-md-4
+					h1 Henry Wu
+
+				ul.col-md-8.list-inline.text-right(style="margin-top:20px")
+					li
+						a(href=""): .glyphicon.glyphicon-envelope  Newsletter
+					li
+						a(href=""): .glyphicon.glyphicon-leaf  Subscribe
+					li |
+					li
+						form.form-inline(role="form")
+							.form-group
+									label.sr-only
+									input.form-control(type="email", placeholder="email")
+									button.btn.btn-default(tyle="submit") Sign Up
+			nav.row
+				.col-sm-12
+				ul.nav.nav-tabs(style="background: #eee; padding:20px 10px 0; border-radius: 5px 5px 0 0;")
+					li.active: a(href="") Dragonflies
+					li: a(href="") CSGO Dolls
+					li: a(href="") League of Legends
+					li: a(href="") Vidya gaems!!
+					li: a(href="") Tarot
+					li: a(href="") MTG
+					li: a(href="") programmer??
+			.row(style="padding-top: 10px")
+				.col-sm-5
+					include col-main
+				.col-sm-4
+					include col-secondary
+				.col-sm-3
+					include col-tertiary
